@@ -1,0 +1,2 @@
+Evaluation exercise sourced from https://medium.com/nerd-for-tech/k-means-python-implementation-from-scratch-8400f30b8e5c
+If you're reading this, you had better be finished with the exercise, cheaters never win.
